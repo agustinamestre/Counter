@@ -1,0 +1,50 @@
+body {
+  background-color: #FCE4BF;
+  font-family: 'Lato', sans-serif;
+}
+
+#container {
+  height: 200px;
+  width: 500px;
+  border: 10px solid #FE72A9;
+  margin: auto;
+  margin-top: 90px;
+  background-color: #FFC872;
+}
+
+h1 {
+  margin-top: 70px;
+  text-align: center;
+  color:#DD4470;
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+#number {
+  height: 30px;
+  width: 250px;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: white;
+  line-height: 30px;
+}
+
+#increment {
+  height: 25px;
+  width: 100px;
+  margin-top: 50px;
+  margin-left: 125px;
+  border: 1px solid black;
+  line-height: 25px;
+}
+
+#decrement {
+  height: 25px;
+  width: 100px;
+  margin-top: 50px;
+  margin-left: 50px;
+  border: 1px solid black;
+}
